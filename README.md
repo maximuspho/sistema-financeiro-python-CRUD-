@@ -1,21 +1,15 @@
-GRUD COM PYTHON
-Para aprendizado de CRUD
+# 💰 Sistema Financeiro Python
 
-Tecnologias   |    Projeto   |    Layout   |   
+Um sistema simples e robusto para controle de despesas e receitas.
 
+## 🚀 Tecnologias
+- Python 3.12+
+- [uv](https://github.com/astral-sh/uv) para gerenciamento de projeto.
+- JSON para armazenamento de dados.
 
-🚀 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-PYTHON
-Git e Github
-
-💻 Projeto
-CRUD feito com PYTHON, para aprendizado.
-
-🔖 Layout
-Sem Layout
-
-📲 Contato
-nene.cyber@hotmail.com
-Feito com ♥ by Wilson C. Silveira.
+## 🛠️ Como Rodar
+1. Instale o `uv`.
+2. Clone o repositório.
+3. No terminal, digite:
+   ```bash
+   uv run main.py
